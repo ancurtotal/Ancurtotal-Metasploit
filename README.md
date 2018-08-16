@@ -17,8 +17,8 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Metasploit
 ```MENJALANKANNYA```
 
 $ cd Ancurtotal-Metasploit
-$ chmod +x Ancurtotal-Metasplotr.sh
-$ sh Ancurtotal-Metasploit.sh
+$ chmod +x Ancurtotal-Metasplotr
+$ ./Ancurtotal-Metasploit
 
 username : AncurtotalMetasploit
 password : SODC
