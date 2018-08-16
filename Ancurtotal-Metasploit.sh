@@ -96,7 +96,7 @@ echo $b "00. Exit${enda}";
 echo "============================" | lolcat
 echo "     [PILIH NOMORNYA BRO]"
 echo
-read -p "Ancurtotal@Hacking-Wifi ~>>" pil;
+read -p "Ancurtotal@Metasploit ~>>" pil;
 
 #Install Metasploit Framework 1Tech-X :
 
