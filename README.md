@@ -18,10 +18,10 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Metasploit
 
 $ cd Ancurtotal-Metasploit
 $ chmod +x Ancurtotal-Metasplotr
-$ ./Ancurtotal-Metasploit
+$ sh Ancurtotal-Metasploit.sh
 
 username : AncurtotalMetasploit
-password : SODC
+password : EKAY
 
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
